@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(100deg, #1c4d91, #000000);
+}
+
+#nav {
+  margin-top: 20px;
+}
+
+#text-nav {
+  padding: 90px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: white;
+}
+
+#text-nav1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  padding: 50px;
+  color: white;
+}
+
+#body1 {
+  background-color: rgb(0, 184, 177);
+  padding: 100px;
+  margin: 100px;
+  border-radius: 30px;
+}
+
+#tx-bd1 {
+  color: aliceblue;
+  text-align: left;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 100px;
+  
+}
+
+#tx-bd2 {
+  text-align: left;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 100px;
+  padding-left: 100px;
+  
+}
